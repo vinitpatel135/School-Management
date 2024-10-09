@@ -9,9 +9,9 @@ Access records, view marks, and communicate effortlessly.
 </h3>
 
 <br>
-[Youtube Video](https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC)
+- Frontend Live :- https://school-management-one-zeta.vercel.app/
 <br><br>
-[LinkedIn](https://www.linkedin.com/in/yogndr/)
+- Backend Live :- https://school-management-k4mj.onrender.com
 
 # About
 
